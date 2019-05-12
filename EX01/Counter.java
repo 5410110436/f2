@@ -1,19 +1,16 @@
-import javax.swing.JOptionPane;
-
-public class Counter {
-       
-    public int myNumber;
-        
-    public Counter() {    
-        myNumber = 0;           
-    }
-
-    public int inc(){     
-        return myNumber++;
-    }
-       
-    public int reset(){
-        myNumber = 0;
-        return myNumber;       
-    }    
+public class Counter{
+	public int val;
+	
+	public Counter(){
+		val = 0;
+	}
+	public int getVal(){
+		return val;
+	}
+	public void inc(){
+		val++;
+	}
+	public void reset(){
+		val = 0;
+	}
 }
