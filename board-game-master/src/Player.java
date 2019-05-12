@@ -51,7 +51,7 @@ public class Player extends Sprite {
 		 JFrame jBlackBlock = new JFrame(); 
 		 JOptionPane.showMessageDialog(jBlackBlock,"Return to Start!");			
 		 System.out.println("Return to Start!");	
-		 currentPos = 0;		 
+		 currentPos = 0;		 // return bug
 	  }	  	 
 	  
 	    	
