@@ -8,6 +8,7 @@ public class Clock{
 		min = minute;
 		state = 0;
 	}
+	// set state
 	public void pressUp(){
 		if(state == 1){
 			hr++;
@@ -34,7 +35,7 @@ public class Clock{
 				printTime();
 			}
 		}
-		else{//
+		else{
 			switch(state){
 				case 1:
 					state = 2; break;
