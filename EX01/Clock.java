@@ -34,7 +34,7 @@ public class Clock{
 				printTime();
 			}
 		}
-		else{
+		else{//
 			switch(state){
 				case 1:
 					state = 2; break;
