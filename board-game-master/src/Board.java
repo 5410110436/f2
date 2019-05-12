@@ -42,7 +42,7 @@ public class Board {
     tunnels.put(41, 21);
     tunnels.put(47, 35);
     tunnels.put(49, 33);
-    tunnels.put(59, 53);
+    tunnels.put(59, 43);
     tunnels.put(73, 67);
     tunnels.put(78, 62);
   }
