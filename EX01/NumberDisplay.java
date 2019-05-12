@@ -26,4 +26,4 @@ public class NumberDisplay{
 	public void increment(){
 		curVal = (curVal + 1) % maxVal;
 	}
-}
+}//v2

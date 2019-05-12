@@ -12,4 +12,4 @@ public class Dice {
 	public int getDice(){
 		return dice;
 	}
-}
+}//v2

@@ -17,4 +17,4 @@ public class Game{
 		System.out.println( name + " You are winner");
 	}	
 	
-}
+}//v2
