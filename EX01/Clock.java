@@ -8,7 +8,7 @@ public class Clock{
 		min = minute;
 		state = 0;
 	}
-	// set state
+	// set state v2
 	public void pressUp(){
 		if(state == 1){
 			hr++;
