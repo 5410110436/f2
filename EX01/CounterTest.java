@@ -8,4 +8,4 @@ public class CounterTest{
 			System.out.print(c.getVal() + ",");
 		}			
 	}
-}//v2
+}

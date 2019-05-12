@@ -13,4 +13,4 @@ public class Counter{
 	public void reset(){
 		val = 0;
 	}
-}//v2
+}

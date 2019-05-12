@@ -10,6 +10,6 @@ public class MyNumber {
         }
         
         System.out.println("my number C reset = " +  c.reset());
-        //test02 
+        //test0
     }  
 }
